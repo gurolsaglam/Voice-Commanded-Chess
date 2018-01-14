@@ -1,0 +1,5 @@
+pip3 install SpeechRecognition
+pip3 install pyaudio
+pip3 install pocketsphinx
+
+http://www.swig.org/download.html
